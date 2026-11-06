@@ -1,0 +1,6 @@
+{
+  "author": "Гурьянов Константин",
+  "language": "Go 1.27.1",
+  "build": "go build -o solution.exe main.go",
+  "run": "./solution.exe"
+}
